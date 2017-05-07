@@ -9,4 +9,4 @@ Let's work together. Use our talent to make a better future!
 God bless you!
 
 My photo
-![image](https://github.com/fan6chen/hello-world/photo/USA VISA photo_meitu_2.jpg)
+![image](https://github.com/fan6chen/hello-world/photo/photo myself.jpg)
